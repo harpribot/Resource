@@ -1,2 +1,7 @@
 # Resource
-Contains links to useful materials for ML
+
+##### Source 1 - Gradient Descent and Variants 
+http://sebastianruder.com/optimizing-gradient-descent/
+
+
+
